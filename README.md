@@ -21,3 +21,5 @@ I am Akash Golui. I am currently working as a Software Developer at <a href="htt
     <img src="https://img.shields.io/github/followers/aakashgolui?label=follow&style=social" alt="Follow @aakashgolui" />
   </a>
 </p>
+
+<img src="https://i.pinimg.com/originals/29/80/93/298093de8b47fc1e46fe5fe2a098e09b.gif" alt="thank you" />
