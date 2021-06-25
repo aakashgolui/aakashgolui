@@ -2,7 +2,7 @@
   Hola a todos 👋
 </h1>
 
-I am Akash Golui. I am currently working as a Software Developer at <a href="https://www.ogmaconceptions.com/">OGMA IT CONCEPTIONS PVT.LTD</a>. I love working with web and mobile Technologies.
+I am Akash Golui. I am currently working as a Software Engineer at <a href="https://www.neosofttech.com/">NeoSOFT Technologies</a>. I love working with web and mobile Technologies.
 
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=aakashgolui&hide=["contribs","issues"]&show_icons=true)
 
